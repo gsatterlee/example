@@ -1,0 +1,14 @@
+C:\Users\satte\Documents\MIS 221\PA2Test\bin\Debug\net8.0\PA2Test.exe
+C:\Users\satte\Documents\MIS 221\PA2Test\bin\Debug\net8.0\PA2Test.deps.json
+C:\Users\satte\Documents\MIS 221\PA2Test\bin\Debug\net8.0\PA2Test.runtimeconfig.json
+C:\Users\satte\Documents\MIS 221\PA2Test\bin\Debug\net8.0\PA2Test.dll
+C:\Users\satte\Documents\MIS 221\PA2Test\bin\Debug\net8.0\PA2Test.pdb
+C:\Users\satte\Documents\MIS 221\PA2Test\obj\Debug\net8.0\PA2Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satte\Documents\MIS 221\PA2Test\obj\Debug\net8.0\PA2Test.AssemblyInfoInputs.cache
+C:\Users\satte\Documents\MIS 221\PA2Test\obj\Debug\net8.0\PA2Test.AssemblyInfo.cs
+C:\Users\satte\Documents\MIS 221\PA2Test\obj\Debug\net8.0\PA2Test.csproj.CoreCompileInputs.cache
+C:\Users\satte\Documents\MIS 221\PA2Test\obj\Debug\net8.0\PA2Test.dll
+C:\Users\satte\Documents\MIS 221\PA2Test\obj\Debug\net8.0\refint\PA2Test.dll
+C:\Users\satte\Documents\MIS 221\PA2Test\obj\Debug\net8.0\PA2Test.pdb
+C:\Users\satte\Documents\MIS 221\PA2Test\obj\Debug\net8.0\PA2Test.genruntimeconfig.cache
+C:\Users\satte\Documents\MIS 221\PA2Test\obj\Debug\net8.0\ref\PA2Test.dll
